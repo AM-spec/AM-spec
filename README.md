@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AM-spec
-- 👀 I’m interested in Data Science, Cyber Security, and Python Programming
-- 🌱 I’m currently learning Data Science, Cyber Security, and Python Programming
+- 👀 I’m interested in Data Science, Cyber Security, Python, and Powershell Programming
+- 🌱 I’m currently learning Data Science, Cyber Security, Python, and Powershell Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
